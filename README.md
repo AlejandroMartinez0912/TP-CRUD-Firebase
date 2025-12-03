@@ -1,4 +1,4 @@
-# 🔥 CRUD con Firebase + Autenticación  
+# CRUD con Firebase + Autenticación  
 Trabajo Práctico – Paradigmas y Lenguajes de Programación  
 
 Alumnos:
@@ -13,12 +13,12 @@ El objetivo es replicar el ejemplo visto en clase y aplicar los conceptos del pa
 
 ## 🚀 Tecnologías usadas
 
-- **HTML5 + CSS3**
-- **JavaScript (ES Modules)**
+- **HTML5**
+- **JavaScript**
 - **Firebase 12.6**
   - Authentication
   - Firestore Database
-
+- **Boostrap**
 ---
 
 ## 🎯 Funcionalidades
@@ -37,8 +37,4 @@ El objetivo es replicar el ejemplo visto en clase y aplicar los conceptos del pa
 - **Eliminar** tareas  
 - Interfaz simple y funcional  
 - Persistencia en la nube  
-
----
-
-## 📁 Estructura de archivos
 
